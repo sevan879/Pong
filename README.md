@@ -1,2 +1,2 @@
 # Pong
-Ping
+Quick game project
